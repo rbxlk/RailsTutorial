@@ -30,8 +30,11 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
-gem 'elastic-apm'
-gem 'graphql', '1.8.13'
+gem 'faker'
+# gem 'graphql', '1.8.13'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
